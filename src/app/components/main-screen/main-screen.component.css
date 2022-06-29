@@ -1,0 +1,10 @@
+.main_screen{
+    float: right;
+    width: 70%;
+    height: 100%;
+    margin: 0;
+}
+
+.cards{
+    display: flex;
+}
